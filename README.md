@@ -25,3 +25,11 @@ archivos **.s** si les resulta práctico para emprolijar el código y el Makefil
 $ make run
 ```
 Esto construirá el código y ejecutará qemu para su emulación
+
+REQUIRES:
+1- SETTING UP AARCH64 TOOLCHAIN
+$ sudo apt install gcc-aarch64-linux-gnu
+2- SETTING UP QEMU ARM (incluye aarch64)
+$ sudo apt install qemu-system-arm
+3- FETCH AND BUILD AARCH64 GDB
+$ sudo apt install gdb-multiarch
