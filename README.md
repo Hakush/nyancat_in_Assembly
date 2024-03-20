@@ -33,3 +33,12 @@ $ sudo apt install gcc-aarch64-linux-gnu
 $ sudo apt install qemu-system-arm
 3- FETCH AND BUILD AARCH64 GDB
 $ sudo apt install gdb-multiarch
+
+## Static
+![preview_NyanCat](https://github.com/Hakush/nyancat_in_Assembly/assets/49700623/f92dc043-4d95-46c0-9206-4a8a17b7d2f6)
+
+## Animation
+![preview-NyanCat-Video](https://github.com/Hakush/nyancat_in_Assembly/assets/49700623/5d0e1873-5ca4-460c-997a-7f54e20d8f5a)
+
+
+
